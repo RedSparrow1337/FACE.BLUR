@@ -1,6 +1,5 @@
 # Faceblur (SPT 4.1.6) — клиентский BepInEx-плагин
 
-API проверен по Assembly-CSharp.dll пользователя: все используемые поля/свойства/роли существуют.
 
 ## Шаги
 1. Visual Studio 2022 (или .NET SDK): открыть Faceblur.csproj, в <SPT> указать путь к SPT, собрать Release.
